@@ -14,6 +14,9 @@ public class SiakadFor22 {
             if (nilai < terendah){
                 terendah = nilai;
             }
-        }
     }
+    System.out.println("Nilai tertingi: " + tertinggi);
+    System.out.println("Nilai terendah: " + terendah);
+    
+        }
 }
