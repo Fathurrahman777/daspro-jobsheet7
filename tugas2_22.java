@@ -27,7 +27,7 @@ public class tugas2_22 {
 
         } while (jenis !=0 );
 
-        
+        System.out.println("Total pembayaran: Rp. " + total);
     }
     
 }
