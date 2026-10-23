@@ -24,7 +24,7 @@ public class tugas1_22 {
           continue;
         }
         if (jmlTiket >10 ){
-          diskon = 0.14;
+          diskon = 0.15;
          } else if (jmlTiket >4) {
           diskon = 0.10;
          } else{
